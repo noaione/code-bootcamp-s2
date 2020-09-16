@@ -2,6 +2,6 @@
 
 int main() {
     puts("Hello, world!");
-    puts("Git is not that hard, you're just sucks.");
+    puts("Git is hard at first, but get easier later.");
     return 0;
 }
